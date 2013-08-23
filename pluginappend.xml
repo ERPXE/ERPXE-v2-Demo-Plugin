@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginAppend
+xmlns="http://erpxe.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://erpxe.com pluginappend.xsd">
+  <AppendInput></AppendInput>
+  <AppendCheckBox></AppendCheckBox>
+  <AppendSelect>
+		<Name></Name>
+		<Option></Option>
+		<Option></Option>
+		<Option></Option>
+  </AppendSelect>
+</PluginAppend>

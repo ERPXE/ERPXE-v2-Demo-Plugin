@@ -1,0 +1,3 @@
+4mlinux.menu
+bzimage
+initrd.gz
