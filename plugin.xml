@@ -9,7 +9,7 @@ xsi:schemaLocation="http://erpxe.com plugins.xsd">
   <VersionCode>1</VersionCode>
   <Kernel>bzimage</Kernel>
   <Initrd>initrd.gz</Initrd>
-  <Append>blaa apic mode</Append>
+  <Append>rw root=/dev/ram ramsidk_size=100000</Append>
   <Architecture>x64</Architecture>
   <ShortInfo>4MLinux is a miniature Linux distribution focusing on four capabilities: maintenance, multimedia, miniserver and mystery (console games)</ShortInfo>
   <PluginWebsite>http://4mlinux.com/</PluginWebsite>
@@ -20,4 +20,3 @@ xsi:schemaLocation="http://erpxe.com plugins.xsd">
   <AuthorEMail>ravemaker@gmail.com</AuthorEMail>
   <AuthorWebsite>http://ravemaker.net</AuthorWebsite>
 </Plugin>
-
