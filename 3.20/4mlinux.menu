@@ -1,0 +1,7 @@
+LABEL 4MLinux320
+MENU LABEL 4MLinux 3.20 All-In-One Edition
+KERNEL er/plugins/4mlinux/bzimage
+APPEND rw root=/dev/ram initrd=/er/shares/4mlinux/initrd.gz ramsidk_size=100000
+TEXT HELP
+                 4MLinux All-In-One Edition.
+ENDTEXT

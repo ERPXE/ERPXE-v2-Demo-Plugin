@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Plugin
+xmlns="http://erpxe.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://erpxe.com plugins.xsd">
+  <Name>4MLinux</Name>
+  <Category>Linux Live</Category>
+  <VersionName>3.00</VersionName>
+  <VersionCode>1</VersionCode>
+  <Kernel>bzimage</Kernel>
+  <Initrd>initrd.gz</Initrd>
+  <Append>rw root=/dev/ram ramsidk_size=100000</Append>
+  <Architecture>x64</Architecture>
+  <ShortInfo>4MLinux is a miniature Linux distribution focusing on four capabilities: maintenance, multimedia, miniserver and mystery (console games)</ShortInfo>
+  <PluginWebsite>http://4mlinux.com/</PluginWebsite>
+  <PluginManual>http://erpxe.org/4MLinux</PluginManual>
+  <ReleaseDate>10/12/2012</ReleaseDate>
+  <LatestUpdateDate>11/12/2012</LatestUpdateDate>
+  <AuthorName>RaveMaker (Adam Mallul)</AuthorName>
+  <AuthorEMail>ravemaker@gmail.com</AuthorEMail>
+  <AuthorWebsite>http://ravemaker.net</AuthorWebsite>
+</Plugin>

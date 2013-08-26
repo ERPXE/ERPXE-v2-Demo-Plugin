@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<PluginAppend
+xmlns="http://erpxe.com"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://erpxe.com pluginappend.xsd">
+  <AppendInput>root=/dev/ram</AppendInput>
+  <AppendCheckBox>rw</AppendCheckBox>
+  <AppendSelect>
+		<Name>ramsidk_size</Name>
+		<Option>ramsidk_size=100000</Option>
+		<Option>ramsidk_size=150000</Option>
+		<Option>ramsidk_size=200000</Option>
+  </AppendSelect>
+</PluginAppend>
