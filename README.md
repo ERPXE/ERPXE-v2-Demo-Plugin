@@ -16,5 +16,6 @@
 	
 	git clone git@github.com:ERPXE/4mlinux.git
 
-by [RaveMaker][RaveMaker].
+by [RaveMaker][RaveMaker] & [ET][ET].
 [RaveMaker]: http://ravemaker.net
+[ET]: http://etcs.me
