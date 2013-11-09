@@ -15,7 +15,7 @@ xsi:schemaLocation="http://erpxe.com plugins.xsd">
   <PluginWebsite>http://4mlinux.com/</PluginWebsite>
   <PluginManual>http://erpxe.org/4MLinux</PluginManual>
   <ReleaseDate>10/12/2012</ReleaseDate>
-  <LatestUpdateDate>11/12/2012</LatestUpdateDate>
+  <UpdateDate>11/12/2012</UpdateDate>
   <AuthorName>RaveMaker (Adam Mallul)</AuthorName>
   <AuthorEMail>ravemaker@gmail.com</AuthorEMail>
   <AuthorWebsite>http://ravemaker.net</AuthorWebsite>
